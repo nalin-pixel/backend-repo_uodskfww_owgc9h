@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [517] using StatReload
-INFO:     Started server process [519]
+INFO:     Started reloader process [568] using StatReload
+INFO:     Started server process [570]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:52834 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:57710 - "GET /tracks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57712 - "GET /tracks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57720 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57730 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47408 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47416 - "GET /tracks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47428 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47426 - "GET /tracks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59068 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:59070 - "GET /tracks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59092 - "GET /tracks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59082 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59104 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39530 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39542 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39552 - "GET /tracks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39516 - "GET /tracks HTTP/1.1" 200 OK
